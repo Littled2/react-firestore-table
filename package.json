@@ -1,0 +1,25 @@
+{
+  "name": "react-firestore-table",
+  "version": "1.0.0",
+  "description": "A realtime, paginated and sortable table that links to a Firestore collection/query",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Littled2/react-firestore-table.git"
+  },
+  "keywords": [
+    "React",
+    "Firebase",
+    "Firestore",
+    "Table"
+  ],
+  "author": "Ed Blewitt, Wiktor Wiejak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Littled2/react-firestore-table/issues"
+  },
+  "homepage": "https://github.com/Littled2/react-firestore-table#readme"
+}
